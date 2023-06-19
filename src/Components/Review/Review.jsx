@@ -45,7 +45,7 @@ const Review = () => {
             </div>
 
             <p>
-            I highly recommend Wonder for their exceptional service. They listened to our preferences and crafted a customized itinerary that perfectly matched our interests. Their attention to detail and prompt communication made the planning process effortless.
+            I highly recommend Wonder, They listened to our preferences and crafted a customized itinerary that perfectly matched our interests. 
             </p>
 
             <div className="name">
@@ -60,7 +60,7 @@ const Review = () => {
             </div>
 
             <p>
-            Choosing Wonder was the best decision we made for our trip. They provided us with expert guidance, insider tips, and access to exclusive experiences. Their professionalism and dedication ensured that our journey exceeded all expectations.
+  Wonder provided us with expert guidance, insider tips, and access to exclusive experiences. Their professionalism and dedication ensured that our journey exceeded all expectations.
             </p>
 
             <div className="name">
